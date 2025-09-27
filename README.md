@@ -20,7 +20,12 @@ Built using Unity 2022.3.45f1
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
  
+## Future Development
 
+Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, etc.
+
+## Created by 
+Benjamin Hornberger
 ## Future Development
 
 Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, etc.
